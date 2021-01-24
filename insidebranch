@@ -1,0 +1,4 @@
+####Create a new branch
+print("inside new branch")
+print("edit branch and create a pull request")
+print("pull request allows peer review and allos permission to merge changes with project branch")
